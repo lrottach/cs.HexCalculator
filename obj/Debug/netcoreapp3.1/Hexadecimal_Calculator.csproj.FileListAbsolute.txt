@@ -1,0 +1,12 @@
+/Users/lrottach/Learning/DotNet/Hexadecimal_Calculator/bin/Debug/netcoreapp3.1/Hexadecimal_Calculator.deps.json
+/Users/lrottach/Learning/DotNet/Hexadecimal_Calculator/bin/Debug/netcoreapp3.1/Hexadecimal_Calculator.runtimeconfig.json
+/Users/lrottach/Learning/DotNet/Hexadecimal_Calculator/bin/Debug/netcoreapp3.1/Hexadecimal_Calculator.runtimeconfig.dev.json
+/Users/lrottach/Learning/DotNet/Hexadecimal_Calculator/bin/Debug/netcoreapp3.1/Hexadecimal_Calculator.dll
+/Users/lrottach/Learning/DotNet/Hexadecimal_Calculator/bin/Debug/netcoreapp3.1/Hexadecimal_Calculator.pdb
+/Users/lrottach/Learning/DotNet/Hexadecimal_Calculator/obj/Debug/netcoreapp3.1/Hexadecimal_Calculator.csprojAssemblyReference.cache
+/Users/lrottach/Learning/DotNet/Hexadecimal_Calculator/obj/Debug/netcoreapp3.1/Hexadecimal_Calculator.AssemblyInfoInputs.cache
+/Users/lrottach/Learning/DotNet/Hexadecimal_Calculator/obj/Debug/netcoreapp3.1/Hexadecimal_Calculator.AssemblyInfo.cs
+/Users/lrottach/Learning/DotNet/Hexadecimal_Calculator/obj/Debug/netcoreapp3.1/Hexadecimal_Calculator.csproj.CoreCompileInputs.cache
+/Users/lrottach/Learning/DotNet/Hexadecimal_Calculator/obj/Debug/netcoreapp3.1/Hexadecimal_Calculator.dll
+/Users/lrottach/Learning/DotNet/Hexadecimal_Calculator/obj/Debug/netcoreapp3.1/Hexadecimal_Calculator.pdb
+/Users/lrottach/Learning/DotNet/Hexadecimal_Calculator/obj/Debug/netcoreapp3.1/Hexadecimal_Calculator.genruntimeconfig.cache
